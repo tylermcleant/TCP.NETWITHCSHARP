@@ -1,0 +1,4 @@
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
