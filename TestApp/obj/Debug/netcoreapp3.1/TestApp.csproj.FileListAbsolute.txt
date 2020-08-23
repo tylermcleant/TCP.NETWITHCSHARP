@@ -2,3 +2,12 @@ C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp
 C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
 C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
 C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\tyler\TCP_Backend_July_2020\DOTNET-MSFTLRN\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
